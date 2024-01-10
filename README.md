@@ -1,6 +1,6 @@
 Hi there 👋
 
-Current Computer Science major at Georgia Tech with concentrations in AI and Info-Internetworks wiht a minor in Economics. 
+Current Computer Science major at Georgia Tech with concentrations in AI and Info-Internetworks with a minor in Economics. 
 Check out my projects!
 
 - 🔭 Interested in Machine learning, AI, data analytics, robtics, NLP, cloud computing, and software development. 

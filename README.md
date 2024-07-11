@@ -3,7 +3,7 @@ Hi there 👋
 Current Computer Science major at Georgia Tech with concentrations in AI and Info-Internetworks with a minor in Economics. 
 Check out my projects!
 
-- 🔭 Interested in Machine learning, AI, data analytics, robtics, NLP, cloud computing, and software development. 
+- 🔭 Interested in Machine learning, AI, data analytics, robotics, NLP, cloud computing, and software development. 
 
 <!--
 **SuhasKumar04/SuhasKumar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
